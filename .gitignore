@@ -1,0 +1,7 @@
+best_cnn1d.pt
+best_lstm.pt
+best_transf.pt 
+best_mlp.pt
+ecog_events.csv
+ECoG_Handpose.mat
+event_segments.csv
